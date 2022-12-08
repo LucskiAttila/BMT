@@ -1,0 +1,47 @@
+{
+    "Game": {
+        "checkpoints": [
+            {
+                "steps": 499909,
+                "file_path": "results\\Run 5\\Game\\Game-499909.onnx",
+                "reward": -0.28080639107660815,
+                "creation_time": 1670473116.0286548,
+                "auxillary_file_paths": [
+                    "results\\Run 5\\Game\\Game-499909.pt"
+                ]
+            },
+            {
+                "steps": 999973,
+                "file_path": "results\\Run 5\\Game\\Game-999973.onnx",
+                "reward": 0.4155162090563592,
+                "creation_time": 1670475955.7670615,
+                "auxillary_file_paths": [
+                    "results\\Run 5\\Game\\Game-999973.pt"
+                ]
+            },
+            {
+                "steps": 1000187,
+                "file_path": "results\\Run 5\\Game\\Game-1000187.onnx",
+                "reward": 0.41983017258178024,
+                "creation_time": 1670475956.1218421,
+                "auxillary_file_paths": [
+                    "results\\Run 5\\Game\\Game-1000187.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000187,
+            "file_path": "results\\Run 5\\Game.onnx",
+            "reward": 0.41983017258178024,
+            "creation_time": 1670475956.1218421,
+            "auxillary_file_paths": [
+                "results\\Run 5\\Game\\Game-1000187.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Game": {
+        "checkpoints": [
+            {
+                "steps": 499876,
+                "file_path": "results\\Run 6\\Game\\Game-499876.onnx",
+                "reward": -0.08417337881007665,
+                "creation_time": 1670479296.4058964,
+                "auxillary_file_paths": [
+                    "results\\Run 6\\Game\\Game-499876.pt"
+                ]
+            },
+            {
+                "steps": 999924,
+                "file_path": "results\\Run 6\\Game\\Game-999924.onnx",
+                "reward": 0.5689311390156513,
+                "creation_time": 1670482057.560003,
+                "auxillary_file_paths": [
+                    "results\\Run 6\\Game\\Game-999924.pt"
+                ]
+            },
+            {
+                "steps": 1499945,
+                "file_path": "results\\Run 6\\Game\\Game-1499945.onnx",
+                "reward": 0.7001731400396309,
+                "creation_time": 1670484811.177275,
+                "auxillary_file_paths": [
+                    "results\\Run 6\\Game\\Game-1499945.pt"
+                ]
+            },
+            {
+                "steps": 1999940,
+                "file_path": "results\\Run 6\\Game\\Game-1999940.onnx",
+                "reward": 0.753575881375778,
+                "creation_time": 1670487584.6867473,
+                "auxillary_file_paths": [
+                    "results\\Run 6\\Game\\Game-1999940.pt"
+                ]
+            },
+            {
+                "steps": 2000022,
+                "file_path": "results\\Run 6\\Game\\Game-2000022.onnx",
+                "reward": 0.7536440257744123,
+                "creation_time": 1670487584.994557,
+                "auxillary_file_paths": [
+                    "results\\Run 6\\Game\\Game-2000022.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000022,
+            "file_path": "results\\Run 6\\Game.onnx",
+            "reward": 0.7536440257744123,
+            "creation_time": 1670487584.994557,
+            "auxillary_file_paths": [
+                "results\\Run 6\\Game\\Game-2000022.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
